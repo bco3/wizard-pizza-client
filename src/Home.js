@@ -6,7 +6,7 @@ export const Home = () => {
   const [hours, setHours] = useState();
 
   useEffect(() => {
-    Axios.get("http://localhost:5000/hours")
+    Axios.get(`${process.env.REACT_APP_BACKEND_URL}/hours`)
       .then((response) => {
         let serveHours = response.data;
         setHours(serveHours);
