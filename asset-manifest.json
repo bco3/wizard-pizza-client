@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wizard-pizza-client/static/css/main.bf3336fa.css",
-    "main.js": "/wizard-pizza-client/static/js/main.63476d51.js",
+    "main.js": "/wizard-pizza-client/static/js/main.78f4766c.js",
     "static/media/hamPineapple.webp": "/wizard-pizza-client/static/media/hamPineapple.96e1b112cca50e905e3a.webp",
     "static/media/girlPizza.webp": "/wizard-pizza-client/static/media/girlPizza.8b23255c925c8ca640bc.webp",
     "static/media/pizzaDining.webp": "/wizard-pizza-client/static/media/pizzaDining.2256c48dc0125c2e28da.webp",
@@ -11,10 +11,10 @@
     "static/media/starPrice.png": "/wizard-pizza-client/static/media/starPrice.6433c25a54475a78625c.png",
     "index.html": "/wizard-pizza-client/index.html",
     "main.bf3336fa.css.map": "/wizard-pizza-client/static/css/main.bf3336fa.css.map",
-    "main.63476d51.js.map": "/wizard-pizza-client/static/js/main.63476d51.js.map"
+    "main.78f4766c.js.map": "/wizard-pizza-client/static/js/main.78f4766c.js.map"
   },
   "entrypoints": [
     "static/css/main.bf3336fa.css",
-    "static/js/main.63476d51.js"
+    "static/js/main.78f4766c.js"
   ]
 }
